@@ -1,0 +1,129 @@
+.Page-products{
+    background-color: #fff;
+    width: 100%;
+}
+/************ Banner Css ************/
+.products-banner {
+    margin-top: 0;
+    padding: 150px 0 100px 0;
+    background-image: url(../../assets/img/products-banner-image.png);
+    background-position: center center;;
+}
+  .products-banner .tagline{
+    transition: 1s;
+    padding: 15px;
+    background: linear-gradient(90.21deg, #aa367c49 -5.91%, #492fbdb9 111.58%);
+    border-radius: 10px;
+    margin-block: 10000px;
+    filter: blur(2);
+  }
+  .products-banner h1 {
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+  }
+  .products-banner h2 {
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+  }
+  .txt-rotate > .wrap {
+    border-right: 0.08em solid #666;
+  }
+  .size{
+    font-size: .8em;
+  }
+  
+
+  /********* Product list ****************/
+  .navBusqueda{
+    position: sticky !important;
+    top: 40px;
+    z-index: 99999999;
+  }
+  .buscarCategoria{
+    height: 32px;
+  }
+  .BusquedaIcon:hover{
+    color: #cccccc;
+  }
+  .products-list{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px; 
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    background-color: #e6edfa;
+  }
+  .products-list h1{
+    margin-top: 80px;
+    font-size: 50px;
+    color: #000000;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1;
+  }
+  .product-bx{ 
+    width: 250px;
+    margin-bottom: 4px;
+    background: #ffffff; 
+    color: #000000;
+    margin: 20px;
+    border-bottom: 10px solid #ffffff ;
+    padding-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    box-shadow: -18px 15px 15px rgba(113, 147, 176, 0.19) ;
+    border-radius: 8px;
+  }
+  .product-bx-h{
+    font-size: 1.5em;
+    color: #000000;
+    margin-bottom: 2px;
+    overflow: hidden; /* oculta el texto que excede la altura */
+    text-overflow: ellipsis; /* agrega puntos suspensivos al final del tercer línea de texto */
+    white-space: nowrap; /* evita que el texto se divida en varias líneas */
+  }
+  .product-bx-p{
+    font-size: .8em;
+    color: #000000;
+    margin-bottom: 2px;
+  }
+  .product-bx-p-description{
+    font-size: 0.75em;
+    color: #000000;
+    margin-bottom: 2px;
+    padding-inline: 25px;
+    overflow: hidden; /* oculta el texto que excede la altura */
+    text-overflow: ellipsis; /* agrega puntos suspensivos al final del tercer línea de texto */
+    white-space: nowrap; /* evita que el texto se divida en varias líneas */
+  }
+  .product-bx:hover{ 
+    border-bottom: 10px solid #000000 ;
+  }
+  .product-bx span{ 
+    background-color: #dadada;
+    width: auto;
+    border-radius: 10px;
+    padding-inline: 10px;
+    margin: 5px;
+  }
+  .product-img-container{
+    background-color: #ffffff;
+    align-content: center;
+    justify-content: center;
+  }
+  .product-img-container img{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+  }
