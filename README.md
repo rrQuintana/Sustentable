@@ -18,11 +18,11 @@ Ingeniería de Software y sistemas computacionales de la Universidad La Salle:
 Esta apliación tiene un cliente para el servicio frontend y otro para el backend
 los cuales tienen que ejecutarse en simultaneo, a continuacón los comandos para ello:
 
-  ## Frontend: $ `npm start`
+  ### Frontend: $ `npm start`
   Abre [http://localhost:3000](http://localhost:3000) para ver 
   en el navegador la página e interactuar con ella.
 
 
-  ## Backend:  $ `npm run dev`
+  ### Backend:  $ `npm run dev`
   Abre [http://localhost:4000](http://localhost:4000) para ver 
   en el navegador y usa esta direccion para realizar peticiones Rest.
