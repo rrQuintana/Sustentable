@@ -5,11 +5,11 @@ puedan intercambiar artículos que ya no necesitan por otros que sí les sean
 útiles, y también para que puedan promocionar sus habilidades y servicios dentro 
 de la comunidad estudiantil.
 
-Esta aplicación es desarrollada y docuemtnada por estudiantes de la carrera de
+Esta aplicación es desarrollada y documentada por estudiantes de la carrera de
 Ingeniería de Software y sistemas computacionales de la Universidad La Salle:
 
   - Roberto Quintana Ramírez.
-  - Oliver Gil Estrada Hernandez.
+  - Oliver Gil Estrada Hernández.
   - Josias Diaz Hernández.
   - Isamayi Meyli Velasco Rodriguez.
   - Uziel Esau Lopez Ruiz.
